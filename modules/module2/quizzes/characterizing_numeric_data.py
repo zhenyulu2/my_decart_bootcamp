@@ -5,6 +5,7 @@ import os
 import numbers
 DATADIR = os.path.join(os.path.expanduser("~"),"DATA")
 HRDIR = os.path.join(DATADIR,"Numerics", "mimic2", "hr", "subjects")
+BPDIR = os.path.join(DATADIR,"Numerics", "mimic2", "bp", "subjects")
 
 import numbers
 
